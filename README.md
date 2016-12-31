@@ -1,5 +1,5 @@
 # surefire-outputcomparison
-# surefire-outputcomparison
+
 This test runner should be used with ChroniclerJ. 
 
 The jar file is the augmented project with ChroniclerJ.
